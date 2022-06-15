@@ -1,6 +1,7 @@
 -- Prompt: https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
 
--- Answer:
+-- Answer: https://www.hackerrank.com/challenges/salary-of-employees/submissions/code/274773660
+
 SELECT name
 FROM Employee
 WHERE salary > 2000
