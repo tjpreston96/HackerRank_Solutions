@@ -25,5 +25,5 @@ def miniMaxSum(arr):
 
 miniMaxSum(arr)
 
-# OUTPUT:
+# ===== OUTPUT =====
 # 16 24
